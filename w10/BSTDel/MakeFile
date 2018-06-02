@@ -1,0 +1,4 @@
+gcc -c -o main.o main.c
+gcc -c -o tree.o tree.c
+gcc -std=c99 main.o tree.o -o tree
+./tree
