@@ -1,0 +1,4 @@
+gcc -g -c -o main.o main.c
+gcc -g -c -o queue.o queue.c
+gcc -g -std=c99 main.o queue.o -o market
+./market
