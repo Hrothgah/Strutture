@@ -1,0 +1,4 @@
+gcc -g -c -o main.o main.c
+gcc -g -c -o funzioni_albero.o funzioni_albero.c
+gcc -std=c99 main.o funzioni_albero.o -o albero
+./albero

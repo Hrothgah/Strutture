@@ -29,6 +29,7 @@ static void insertNode(TreeNodePtr *, Item);
 void stampaAlbero(void);
 
 int level = 0;
+int maxLev = 0;
 
 void treeInit(void){
   rootPtr = NULL;
@@ -111,6 +112,9 @@ void treePostOrder(void){
 static void stampa90(TreeNodePtr treePtr){
   if (treePtr != NULL){
     level++;
+    if (level > maxLev){
+      maxLev = level;
+    }
     stampa90(treePtr->right);
     printf(">%*s%5d\n", level*5," ", treePtr->item);
     stampa90(treePtr->left);
@@ -167,19 +171,33 @@ TreeNodePtr queueDequeue() {
 
 static void stampaLivelliF(TreeNodePtr treePtr){
   if (treePtr != NULL ){
-    int i = 0;
+    int curLev = 1;
+    int proxLev = 0;
+    /*int livello = 0;*/
     queueEnqueue(treePtr);
+    /*printf("maxLev vale %d\n",maxLev);
+    printf(">");*/
 
       while(!queueIsEmpty()){
         TreeNodePtr nodo = queueDequeue();
-        i++;
+        curLev--;
+        //printf("%*s%2d",(maxLev-livello)*8,".",nodo->item);
         printf("%d ",nodo->item);
         if (nodo->left != NULL){
           queueEnqueue(nodo->left);
+          proxLev++;
         }
 
         if(nodo->right != NULL){
           queueEnqueue(nodo->right);
+          proxLev++;
+        }
+        if (curLev == 0){
+          printf("\n");
+          //printf(">");
+          curLev = proxLev;
+          proxLev = 0;
+          //livello++;
         }
 
         /*
