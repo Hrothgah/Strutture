@@ -26,7 +26,7 @@ int queueIsEmpty(){
   return head == NULL;
 }
 
-void queueEnqueue(int i, int numero){
+void queueEnqueue(int i, int numero, FILE * file){
   //puts("Entro in enqueue");
   ClientPtr cliente = malloc(sizeof(Client));
   //puts("puntatore allocato");
@@ -34,7 +34,7 @@ void queueEnqueue(int i, int numero){
   cliente->servizio = rand()%3+1;
   cliente->uscita = 0;
   cliente->nextClient = NULL;
-  printf("E' arrivato il cliente %d.",cliente->nome);
+  fprintf(file,"E' arrivato il cliente %d.",cliente->nome);
   if (queueIsEmpty()){
     //puts("Entro nel ramo queue is empty");
     cliente->uscita = i + cliente->servizio;
@@ -45,8 +45,8 @@ void queueEnqueue(int i, int numero){
   }
 }
 
-void queueDequeue(int i){
-  printf("Ho servito il cliente %d.",head->nome);
+void queueDequeue(int i, FILE * file){
+  fprintf(file,"Ho servito il cliente %d.",head->nome);
   ClientPtr temp = head;
     if (head->nextClient == NULL){
       head = NULL;
@@ -60,14 +60,14 @@ void queueDequeue(int i){
     }
 }
 
-void printQueue(){
+void printQueue(FILE * file){
   ClientPtr cur = head;
-  printf("Cassa -> ");
+  fprintf(file,"Cassa -> ");
   while (cur != NULL) {
-    printf("%d -> ", cur->nome);
+    fprintf(file,"%d -> ", cur->nome);
     cur = cur->nextClient;
   }
-  printf("FINE\n");
+  fprintf(file,"FINE\n");
 }
 
 int countQueue(){
