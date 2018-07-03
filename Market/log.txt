@@ -1,793 +1,793 @@
-Data: 6-6-2018 Ore: 9:45:33
+Data: 8-6-2018 Ore: 21:40:3
 >0 :
 >1 :
 >2 :
 >3 :E' arrivato il cliente 1.
->4 :
->5 :Ho servito il cliente 1.E' arrivato il cliente 2.
->6 :
->7 :Ho servito il cliente 2.
->8 :E' arrivato il cliente 3.
->9 :
->10 :Ho servito il cliente 3.Cassa -> FINE
+>4 :Ho servito il cliente 1.
+>5 :
+>6 :E' arrivato il cliente 2.
+>7 :
+>8 :
+>9 :Ho servito il cliente 2.E' arrivato il cliente 3.
+>10 :Ho servito il cliente 3.E' arrivato il cliente 4.Cassa -> 4 -> FINE
 
->11 :E' arrivato il cliente 4.
->12 :Ho servito il cliente 4.
->13 :E' arrivato il cliente 5.
->14 :
->15 :E' arrivato il cliente 6.
+>11 :E' arrivato il cliente 5.
+>12 :
+>13 :Ho servito il cliente 4.
+>14 :E' arrivato il cliente 6.
+>15 :E' arrivato il cliente 7.
 >16 :Ho servito il cliente 5.
->17 :
->18 :Ho servito il cliente 6.E' arrivato il cliente 7.
->19 :
->20 :Cassa -> 7 -> FINE
+>17 :E' arrivato il cliente 8.
+>18 :
+>19 :Ho servito il cliente 6.E' arrivato il cliente 9.
+>20 :Cassa -> 7 -> 8 -> 9 -> FINE
 
->21 :Ho servito il cliente 7.E' arrivato il cliente 8.
->22 :
->23 :Ho servito il cliente 8.E' arrivato il cliente 9.
->24 :
->25 :
->26 :Ho servito il cliente 9.E' arrivato il cliente 10.
->27 :E' arrivato il cliente 11.
->28 :Ho servito il cliente 10.
->29 :Ho servito il cliente 11.E' arrivato il cliente 12.
->30 :E' arrivato il cliente 13.Cassa -> 12 -> 13 -> FINE
+>21 :Ho servito il cliente 7.
+>22 :E' arrivato il cliente 10.
+>23 :Ho servito il cliente 8.
+>24 :Ho servito il cliente 9.E' arrivato il cliente 11.
+>25 :Ho servito il cliente 10.
+>26 :Ho servito il cliente 11.E' arrivato il cliente 12.
+>27 :
+>28 :E' arrivato il cliente 13.
+>29 :Ho servito il cliente 12.
+>30 :Cassa -> 13 -> FINE
 
 >31 :E' arrivato il cliente 14.
->32 :Ho servito il cliente 12.E' arrivato il cliente 15.
->33 :Ho servito il cliente 13.
->34 :Ho servito il cliente 14.E' arrivato il cliente 16.
->35 :E' arrivato il cliente 17.
->36 :Ho servito il cliente 15.
->37 :Ho servito il cliente 16.E' arrivato il cliente 18.
+>32 :Ho servito il cliente 13.
+>33 :Ho servito il cliente 14.E' arrivato il cliente 15.
+>34 :Ho servito il cliente 15.
+>35 :E' arrivato il cliente 16.
+>36 :Ho servito il cliente 16.E' arrivato il cliente 17.
+>37 :E' arrivato il cliente 18.
 >38 :Ho servito il cliente 17.
->39 :Ho servito il cliente 18.E' arrivato il cliente 19.
->40 :Ho servito il cliente 19.E' arrivato il cliente 20.Cassa -> 20 -> FINE
+>39 :
+>40 :E' arrivato il cliente 19.Cassa -> 18 -> 19 -> FINE
 
->41 :
->42 :E' arrivato il cliente 21.
->43 :Ho servito il cliente 20.
->44 :E' arrivato il cliente 22.
->45 :
->46 :Ho servito il cliente 21.E' arrivato il cliente 23.
->47 :E' arrivato il cliente 24.
->48 :Ho servito il cliente 22.E' arrivato il cliente 25.
->49 :
->50 :Ho servito il cliente 23.E' arrivato il cliente 26.Cassa -> 24 -> 25 -> 26 -> FINE
+>41 :Ho servito il cliente 18.
+>42 :Ho servito il cliente 19.E' arrivato il cliente 20.
+>43 :
+>44 :
+>45 :Ho servito il cliente 20.E' arrivato il cliente 21.
+>46 :
+>47 :Ho servito il cliente 21.E' arrivato il cliente 22.
+>48 :Ho servito il cliente 22.
+>49 :E' arrivato il cliente 23.
+>50 :Cassa -> 23 -> FINE
 
->51 :E' arrivato il cliente 27.
->52 :E' arrivato il cliente 28.
->53 :Ho servito il cliente 24.E' arrivato il cliente 29.
+>51 :
+>52 :Ho servito il cliente 23.E' arrivato il cliente 24.
+>53 :Ho servito il cliente 24.E' arrivato il cliente 25.
 >54 :
->55 :
->56 :Ho servito il cliente 25.E' arrivato il cliente 30.
->57 :E' arrivato il cliente 31.
->58 :Ho servito il cliente 26.
->59 :Ho servito il cliente 27.E' arrivato il cliente 32.
->60 :E' arrivato il cliente 33.Cassa -> 28 -> 29 -> 30 -> 31 -> 32 -> 33 -> FINE
+>55 :Ho servito il cliente 25.E' arrivato il cliente 26.
+>56 :
+>57 :Ho servito il cliente 26.
+>58 :E' arrivato il cliente 27.
+>59 :Ho servito il cliente 27.
+>60 :E' arrivato il cliente 28.Cassa -> 28 -> FINE
 
->61 :Ho servito il cliente 28.
->62 :E' arrivato il cliente 34.
->63 :Ho servito il cliente 29.
->64 :Ho servito il cliente 30.
->65 :Ho servito il cliente 31.E' arrivato il cliente 35.
+>61 :
+>62 :Ho servito il cliente 28.
+>63 :E' arrivato il cliente 29.
+>64 :
+>65 :Ho servito il cliente 29.E' arrivato il cliente 30.
 >66 :
->67 :Ho servito il cliente 32.
->68 :Ho servito il cliente 33.E' arrivato il cliente 36.
->69 :
->70 :E' arrivato il cliente 37.Cassa -> 34 -> 35 -> 36 -> 37 -> FINE
+>67 :Ho servito il cliente 30.E' arrivato il cliente 31.
+>68 :
+>69 :Ho servito il cliente 31.E' arrivato il cliente 32.
+>70 :Cassa -> 32 -> FINE
 
->71 :Ho servito il cliente 34.
->72 :E' arrivato il cliente 38.
+>71 :Ho servito il cliente 32.
+>72 :E' arrivato il cliente 33.
 >73 :
->74 :Ho servito il cliente 35.E' arrivato il cliente 39.
->75 :Ho servito il cliente 36.
->76 :Ho servito il cliente 37.
->77 :E' arrivato il cliente 40.
->78 :
->79 :Ho servito il cliente 38.
->80 :E' arrivato il cliente 41.Cassa -> 39 -> 40 -> 41 -> FINE
+>74 :
+>75 :Ho servito il cliente 33.E' arrivato il cliente 34.
+>76 :
+>77 :Ho servito il cliente 34.
+>78 :E' arrivato il cliente 35.
+>79 :
+>80 :Ho servito il cliente 35.E' arrivato il cliente 36.Cassa -> 36 -> FINE
 
->81 :Ho servito il cliente 39.
->82 :Ho servito il cliente 40.E' arrivato il cliente 42.
->83 :
->84 :Ho servito il cliente 41.E' arrivato il cliente 43.
->85 :Ho servito il cliente 42.
->86 :E' arrivato il cliente 44.
->87 :
->88 :Ho servito il cliente 43.E' arrivato il cliente 45.
->89 :E' arrivato il cliente 46.
->90 :Ho servito il cliente 44.Cassa -> 45 -> 46 -> FINE
+>81 :Ho servito il cliente 36.
+>82 :E' arrivato il cliente 37.
+>83 :E' arrivato il cliente 38.
+>84 :Ho servito il cliente 37.
+>85 :E' arrivato il cliente 39.
+>86 :
+>87 :Ho servito il cliente 38.
+>88 :Ho servito il cliente 39.E' arrivato il cliente 40.
+>89 :
+>90 :E' arrivato il cliente 41.Cassa -> 40 -> 41 -> FINE
 
->91 :Ho servito il cliente 45.
->92 :E' arrivato il cliente 47.
->93 :
->94 :Ho servito il cliente 46.E' arrivato il cliente 48.
->95 :E' arrivato il cliente 49.
->96 :
->97 :Ho servito il cliente 47.
->98 :E' arrivato il cliente 50.
+>91 :Ho servito il cliente 40.
+>92 :E' arrivato il cliente 42.
+>93 :Ho servito il cliente 41.
+>94 :E' arrivato il cliente 43.
+>95 :Ho servito il cliente 42.
+>96 :Ho servito il cliente 43.
+>97 :E' arrivato il cliente 44.
+>98 :
 >99 :
->100 :Ho servito il cliente 48.Cassa -> 49 -> 50 -> FINE
+>100 :Ho servito il cliente 44.E' arrivato il cliente 45.Cassa -> 45 -> FINE
 
->101 :E' arrivato il cliente 51.
->102 :
->103 :Ho servito il cliente 49.
->104 :E' arrivato il cliente 52.
->105 :E' arrivato il cliente 53.
->106 :Ho servito il cliente 50.E' arrivato il cliente 54.
->107 :E' arrivato il cliente 55.
->108 :Ho servito il cliente 51.
->109 :Ho servito il cliente 52.
->110 :Ho servito il cliente 53.E' arrivato il cliente 56.Cassa -> 54 -> 55 -> 56 -> FINE
+>101 :E' arrivato il cliente 46.
+>102 :E' arrivato il cliente 47.
+>103 :Ho servito il cliente 45.
+>104 :Ho servito il cliente 46.
+>105 :Ho servito il cliente 47.E' arrivato il cliente 48.
+>106 :Ho servito il cliente 48.
+>107 :
+>108 :E' arrivato il cliente 49.
+>109 :
+>110 :Ho servito il cliente 49.Cassa -> FINE
 
->111 :
->112 :E' arrivato il cliente 57.
->113 :Ho servito il cliente 54.E' arrivato il cliente 58.
->114 :
->115 :E' arrivato il cliente 59.
->116 :Ho servito il cliente 55.
->117 :Ho servito il cliente 56.
->118 :E' arrivato il cliente 60.
->119 :Ho servito il cliente 57.E' arrivato il cliente 61.
->120 :Cassa -> 58 -> 59 -> 60 -> 61 -> FINE
+>111 :E' arrivato il cliente 50.
+>112 :
+>113 :E' arrivato il cliente 51.
+>114 :Ho servito il cliente 50.E' arrivato il cliente 52.
+>115 :Ho servito il cliente 51.
+>116 :E' arrivato il cliente 53.
+>117 :
+>118 :Ho servito il cliente 52.E' arrivato il cliente 54.
+>119 :
+>120 :Ho servito il cliente 53.E' arrivato il cliente 55.Cassa -> 54 -> 55 -> FINE
 
->121 :
->122 :Ho servito il cliente 58.E' arrivato il cliente 62.
->123 :
+>121 :Ho servito il cliente 54.E' arrivato il cliente 56.
+>122 :E' arrivato il cliente 57.
+>123 :Ho servito il cliente 55.E' arrivato il cliente 58.
 >124 :
->125 :Ho servito il cliente 59.E' arrivato il cliente 63.
->126 :Ho servito il cliente 60.
->127 :Ho servito il cliente 61.
->128 :E' arrivato il cliente 64.
->129 :E' arrivato il cliente 65.
->130 :Ho servito il cliente 62.Cassa -> 63 -> 64 -> 65 -> FINE
+>125 :Ho servito il cliente 56.
+>126 :E' arrivato il cliente 59.
+>127 :Ho servito il cliente 57.
+>128 :E' arrivato il cliente 60.
+>129 :E' arrivato il cliente 61.
+>130 :Ho servito il cliente 58.Cassa -> 59 -> 60 -> 61 -> FINE
 
->131 :Ho servito il cliente 63.E' arrivato il cliente 66.
->132 :
->133 :E' arrivato il cliente 67.
->134 :Ho servito il cliente 64.E' arrivato il cliente 68.
->135 :E' arrivato il cliente 69.
->136 :
->137 :Ho servito il cliente 65.
->138 :E' arrivato il cliente 70.
->139 :
->140 :Ho servito il cliente 66.Cassa -> 67 -> 68 -> 69 -> 70 -> FINE
+>131 :Ho servito il cliente 59.
+>132 :E' arrivato il cliente 62.
+>133 :Ho servito il cliente 60.E' arrivato il cliente 63.
+>134 :Ho servito il cliente 61.
+>135 :E' arrivato il cliente 64.
+>136 :Ho servito il cliente 62.
+>137 :E' arrivato il cliente 65.
+>138 :
+>139 :Ho servito il cliente 63.
+>140 :Ho servito il cliente 64.E' arrivato il cliente 66.Cassa -> 65 -> 66 -> FINE
 
->141 :E' arrivato il cliente 71.
->142 :Ho servito il cliente 67.
->143 :E' arrivato il cliente 72.
->144 :Ho servito il cliente 68.E' arrivato il cliente 73.
->145 :Ho servito il cliente 69.
->146 :Ho servito il cliente 70.E' arrivato il cliente 74.
->147 :
->148 :Ho servito il cliente 71.E' arrivato il cliente 75.
->149 :
->150 :Ho servito il cliente 72.Cassa -> 73 -> 74 -> 75 -> FINE
+>141 :Ho servito il cliente 65.E' arrivato il cliente 67.
+>142 :
+>143 :E' arrivato il cliente 68.
+>144 :Ho servito il cliente 66.
+>145 :Ho servito il cliente 67.
+>146 :Ho servito il cliente 68.E' arrivato il cliente 69.
+>147 :Ho servito il cliente 69.E' arrivato il cliente 70.
+>148 :
+>149 :Ho servito il cliente 70.
+>150 :E' arrivato il cliente 71.Cassa -> 71 -> FINE
 
->151 :E' arrivato il cliente 76.
->152 :E' arrivato il cliente 77.
->153 :Ho servito il cliente 73.
->154 :
->155 :E' arrivato il cliente 78.
->156 :Ho servito il cliente 74.E' arrivato il cliente 79.
->157 :Ho servito il cliente 75.E' arrivato il cliente 80.
+>151 :Ho servito il cliente 71.
+>152 :
+>153 :E' arrivato il cliente 72.
+>154 :Ho servito il cliente 72.
+>155 :
+>156 :E' arrivato il cliente 73.
+>157 :Ho servito il cliente 73.
 >158 :
->159 :E' arrivato il cliente 81.
->160 :Ho servito il cliente 76.E' arrivato il cliente 82.Cassa -> 77 -> 78 -> 79 -> 80 -> 81 -> 82 -> FINE
+>159 :E' arrivato il cliente 74.
+>160 :Cassa -> 74 -> FINE
 
->161 :
->162 :E' arrivato il cliente 83.
->163 :Ho servito il cliente 77.
->164 :
->165 :E' arrivato il cliente 84.
->166 :Ho servito il cliente 78.
->167 :E' arrivato il cliente 85.
+>161 :E' arrivato il cliente 75.
+>162 :Ho servito il cliente 74.
+>163 :E' arrivato il cliente 76.
+>164 :Ho servito il cliente 75.
+>165 :E' arrivato il cliente 77.
+>166 :E' arrivato il cliente 78.
+>167 :Ho servito il cliente 76.E' arrivato il cliente 79.
 >168 :
->169 :Ho servito il cliente 79.
->170 :Ho servito il cliente 80.E' arrivato il cliente 86.Cassa -> 81 -> 82 -> 83 -> 84 -> 85 -> 86 -> FINE
+>169 :Ho servito il cliente 77.
+>170 :E' arrivato il cliente 80.Cassa -> 78 -> 79 -> 80 -> FINE
 
->171 :E' arrivato il cliente 87.
->172 :E' arrivato il cliente 88.
->173 :Ho servito il cliente 81.E' arrivato il cliente 89.
->174 :E' arrivato il cliente 90.
+>171 :
+>172 :Ho servito il cliente 78.
+>173 :E' arrivato il cliente 81.
+>174 :Ho servito il cliente 79.
 >175 :
->176 :Ho servito il cliente 82.
->177 :Ho servito il cliente 83.E' arrivato il cliente 91.
+>176 :Ho servito il cliente 80.E' arrivato il cliente 82.
+>177 :
 >178 :
->179 :E' arrivato il cliente 92.
->180 :Ho servito il cliente 84.Cassa -> 85 -> 86 -> 87 -> 88 -> 89 -> 90 -> 91 -> 92 -> FINE
+>179 :Ho servito il cliente 81.E' arrivato il cliente 83.
+>180 :Ho servito il cliente 82.E' arrivato il cliente 84.Cassa -> 83 -> 84 -> FINE
 
->181 :
->182 :Ho servito il cliente 85.E' arrivato il cliente 93.
->183 :
->184 :Ho servito il cliente 86.
->185 :E' arrivato il cliente 94.
->186 :Ho servito il cliente 87.
+>181 :Ho servito il cliente 83.
+>182 :
+>183 :E' arrivato il cliente 85.
+>184 :Ho servito il cliente 84.
+>185 :E' arrivato il cliente 86.
+>186 :Ho servito il cliente 85.
 >187 :
->188 :Ho servito il cliente 88.E' arrivato il cliente 95.
+>188 :Ho servito il cliente 86.E' arrivato il cliente 87.
 >189 :
->190 :Ho servito il cliente 89.E' arrivato il cliente 96.Cassa -> 90 -> 91 -> 92 -> 93 -> 94 -> 95 -> 96 -> FINE
+>190 :Ho servito il cliente 87.Cassa -> FINE
 
->191 :E' arrivato il cliente 97.
+>191 :E' arrivato il cliente 88.
 >192 :
->193 :Ho servito il cliente 90.
->194 :Ho servito il cliente 91.E' arrivato il cliente 98.
+>193 :E' arrivato il cliente 89.
+>194 :Ho servito il cliente 88.
 >195 :
->196 :
->197 :Ho servito il cliente 92.E' arrivato il cliente 99.
->198 :Ho servito il cliente 93.
->199 :Ho servito il cliente 94.E' arrivato il cliente 100.
->200 :Ho servito il cliente 95.Cassa -> 96 -> 97 -> 98 -> 99 -> 100 -> FINE
+>196 :Ho servito il cliente 89.E' arrivato il cliente 90.
+>197 :Ho servito il cliente 90.E' arrivato il cliente 91.
+>198 :Ho servito il cliente 91.
+>199 :
+>200 :E' arrivato il cliente 92.Cassa -> 92 -> FINE
 
->201 :E' arrivato il cliente 101.
->202 :Ho servito il cliente 96.E' arrivato il cliente 102.
->203 :
->204 :Ho servito il cliente 97.
->205 :E' arrivato il cliente 103.
->206 :Ho servito il cliente 98.
->207 :E' arrivato il cliente 104.
->208 :
->209 :Ho servito il cliente 99.E' arrivato il cliente 105.
->210 :Cassa -> 100 -> 101 -> 102 -> 103 -> 104 -> 105 -> FINE
+>201 :
+>202 :
+>203 :Ho servito il cliente 92.E' arrivato il cliente 93.
+>204 :Ho servito il cliente 93.
+>205 :E' arrivato il cliente 94.
+>206 :
+>207 :
+>208 :Ho servito il cliente 94.E' arrivato il cliente 95.
+>209 :Ho servito il cliente 95.
+>210 :Cassa -> FINE
 
->211 :Ho servito il cliente 100.E' arrivato il cliente 106.
->212 :E' arrivato il cliente 107.
->213 :Ho servito il cliente 101.E' arrivato il cliente 108.
+>211 :E' arrivato il cliente 96.
+>212 :E' arrivato il cliente 97.
+>213 :Ho servito il cliente 96.
 >214 :
->215 :Ho servito il cliente 102.
->216 :Ho servito il cliente 103.E' arrivato il cliente 109.
+>215 :Ho servito il cliente 97.E' arrivato il cliente 98.
+>216 :Ho servito il cliente 98.
 >217 :
->218 :E' arrivato il cliente 110.
->219 :Ho servito il cliente 104.
->220 :E' arrivato il cliente 111.Cassa -> 105 -> 106 -> 107 -> 108 -> 109 -> 110 -> 111 -> FINE
+>218 :E' arrivato il cliente 99.
+>219 :Ho servito il cliente 99.E' arrivato il cliente 100.
+>220 :Cassa -> 100 -> FINE
 
->221 :
->222 :Ho servito il cliente 105.E' arrivato il cliente 112.
->223 :Ho servito il cliente 106.E' arrivato il cliente 113.
->224 :Ho servito il cliente 107.E' arrivato il cliente 114.
->225 :Ho servito il cliente 108.
->226 :Ho servito il cliente 109.
->227 :E' arrivato il cliente 115.
->228 :Ho servito il cliente 110.
->229 :Ho servito il cliente 111.
->230 :E' arrivato il cliente 116.Cassa -> 112 -> 113 -> 114 -> 115 -> 116 -> FINE
+>221 :Ho servito il cliente 100.
+>222 :E' arrivato il cliente 101.
+>223 :E' arrivato il cliente 102.
+>224 :E' arrivato il cliente 103.
+>225 :Ho servito il cliente 101.
+>226 :E' arrivato il cliente 104.
+>227 :Ho servito il cliente 102.
+>228 :E' arrivato il cliente 105.
+>229 :E' arrivato il cliente 106.
+>230 :Ho servito il cliente 103.Cassa -> 104 -> 105 -> 106 -> FINE
 
->231 :Ho servito il cliente 112.
->232 :Ho servito il cliente 113.
->233 :E' arrivato il cliente 117.
+>231 :Ho servito il cliente 104.
+>232 :Ho servito il cliente 105.E' arrivato il cliente 107.
+>233 :
 >234 :
->235 :Ho servito il cliente 114.
->236 :E' arrivato il cliente 118.
->237 :Ho servito il cliente 115.
->238 :Ho servito il cliente 116.
->239 :E' arrivato il cliente 119.
->240 :Cassa -> 117 -> 118 -> 119 -> FINE
+>235 :Ho servito il cliente 106.E' arrivato il cliente 108.
+>236 :
+>237 :Ho servito il cliente 107.
+>238 :E' arrivato il cliente 109.
+>239 :Ho servito il cliente 108.
+>240 :Ho servito il cliente 109.Cassa -> FINE
 
->241 :Ho servito il cliente 117.E' arrivato il cliente 120.
+>241 :E' arrivato il cliente 110.
 >242 :
->243 :E' arrivato il cliente 121.
->244 :Ho servito il cliente 118.
->245 :Ho servito il cliente 119.
->246 :E' arrivato il cliente 122.
->247 :Ho servito il cliente 120.
->248 :Ho servito il cliente 121.E' arrivato il cliente 123.
->249 :
->250 :Ho servito il cliente 122.Cassa -> 123 -> FINE
+>243 :
+>244 :Ho servito il cliente 110.E' arrivato il cliente 111.
+>245 :E' arrivato il cliente 112.
+>246 :Ho servito il cliente 111.
+>247 :Ho servito il cliente 112.
+>248 :E' arrivato il cliente 113.
+>249 :Ho servito il cliente 113.E' arrivato il cliente 114.
+>250 :Cassa -> 114 -> FINE
 
->251 :Ho servito il cliente 123.E' arrivato il cliente 124.
->252 :Ho servito il cliente 124.E' arrivato il cliente 125.
->253 :
->254 :Ho servito il cliente 125.
->255 :E' arrivato il cliente 126.
+>251 :E' arrivato il cliente 115.
+>252 :Ho servito il cliente 114.
+>253 :E' arrivato il cliente 116.
+>254 :Ho servito il cliente 115.E' arrivato il cliente 117.
+>255 :Ho servito il cliente 116.
 >256 :
->257 :
->258 :Ho servito il cliente 126.E' arrivato il cliente 127.
->259 :E' arrivato il cliente 128.
->260 :Ho servito il cliente 127.Cassa -> 128 -> FINE
+>257 :Ho servito il cliente 117.E' arrivato il cliente 118.
+>258 :
+>259 :
+>260 :Ho servito il cliente 118.E' arrivato il cliente 119.Cassa -> 119 -> FINE
 
->261 :E' arrivato il cliente 129.
->262 :
->263 :Ho servito il cliente 128.
->264 :E' arrivato il cliente 130.
->265 :Ho servito il cliente 129.E' arrivato il cliente 131.
->266 :
->267 :Ho servito il cliente 130.
->268 :E' arrivato il cliente 132.
->269 :Ho servito il cliente 131.E' arrivato il cliente 133.
->270 :Ho servito il cliente 132.Cassa -> 133 -> FINE
+>261 :
+>262 :Ho servito il cliente 119.
+>263 :E' arrivato il cliente 120.
+>264 :Ho servito il cliente 120.
+>265 :
+>266 :E' arrivato il cliente 121.
+>267 :Ho servito il cliente 121.
+>268 :
+>269 :E' arrivato il cliente 122.
+>270 :Cassa -> 122 -> FINE
 
->271 :
->272 :E' arrivato il cliente 134.
->273 :Ho servito il cliente 133.
->274 :Ho servito il cliente 134.E' arrivato il cliente 135.
->275 :Ho servito il cliente 135.
->276 :E' arrivato il cliente 136.
->277 :
->278 :E' arrivato il cliente 137.
->279 :Ho servito il cliente 136.E' arrivato il cliente 138.
->280 :Ho servito il cliente 137.E' arrivato il cliente 139.Cassa -> 138 -> 139 -> FINE
+>271 :Ho servito il cliente 122.E' arrivato il cliente 123.
+>272 :
+>273 :E' arrivato il cliente 124.
+>274 :Ho servito il cliente 123.E' arrivato il cliente 125.
+>275 :
+>276 :E' arrivato il cliente 126.
+>277 :Ho servito il cliente 124.
+>278 :Ho servito il cliente 125.
+>279 :Ho servito il cliente 126.E' arrivato il cliente 127.
+>280 :E' arrivato il cliente 128.Cassa -> 127 -> 128 -> FINE
 
->281 :Ho servito il cliente 138.E' arrivato il cliente 140.
->282 :Ho servito il cliente 139.
->283 :
->284 :E' arrivato il cliente 141.
->285 :Ho servito il cliente 140.
->286 :Ho servito il cliente 141.E' arrivato il cliente 142.
->287 :
->288 :Ho servito il cliente 142.E' arrivato il cliente 143.
->289 :Ho servito il cliente 143.
->290 :E' arrivato il cliente 144.Cassa -> 144 -> FINE
+>281 :E' arrivato il cliente 129.
+>282 :Ho servito il cliente 127.
+>283 :E' arrivato il cliente 130.
+>284 :
+>285 :Ho servito il cliente 128.E' arrivato il cliente 131.
+>286 :E' arrivato il cliente 132.
+>287 :Ho servito il cliente 129.
+>288 :
+>289 :E' arrivato il cliente 133.
+>290 :Ho servito il cliente 130.Cassa -> 131 -> 132 -> 133 -> FINE
 
->291 :Ho servito il cliente 144.
->292 :E' arrivato il cliente 145.
->293 :Ho servito il cliente 145.
->294 :
->295 :E' arrivato il cliente 146.
->296 :Ho servito il cliente 146.
->297 :
->298 :E' arrivato il cliente 147.
->299 :E' arrivato il cliente 148.
->300 :Ho servito il cliente 147.Cassa -> 148 -> FINE
+>291 :Ho servito il cliente 131.E' arrivato il cliente 134.
+>292 :
+>293 :E' arrivato il cliente 135.
+>294 :Ho servito il cliente 132.E' arrivato il cliente 136.
+>295 :
+>296 :E' arrivato il cliente 137.
+>297 :Ho servito il cliente 133.E' arrivato il cliente 138.
+>298 :E' arrivato il cliente 139.
+>299 :
+>300 :Ho servito il cliente 134.Cassa -> 135 -> 136 -> 137 -> 138 -> 139 -> FINE
 
->301 :E' arrivato il cliente 149.
->302 :E' arrivato il cliente 150.
->303 :Ho servito il cliente 148.
->304 :Ho servito il cliente 149.E' arrivato il cliente 151.
+>301 :Ho servito il cliente 135.E' arrivato il cliente 140.
+>302 :E' arrivato il cliente 141.
+>303 :Ho servito il cliente 136.
+>304 :E' arrivato il cliente 142.
 >305 :
->306 :E' arrivato il cliente 152.
->307 :Ho servito il cliente 150.
->308 :E' arrivato il cliente 153.
->309 :
->310 :Ho servito il cliente 151.E' arrivato il cliente 154.Cassa -> 152 -> 153 -> 154 -> FINE
+>306 :Ho servito il cliente 137.E' arrivato il cliente 143.
+>307 :Ho servito il cliente 138.
+>308 :
+>309 :E' arrivato il cliente 144.
+>310 :Ho servito il cliente 139.E' arrivato il cliente 145.Cassa -> 140 -> 141 -> 142 -> 143 -> 144 -> 145 -> FINE
 
->311 :Ho servito il cliente 152.E' arrivato il cliente 155.
->312 :
->313 :E' arrivato il cliente 156.
->314 :Ho servito il cliente 153.E' arrivato il cliente 157.
->315 :
->316 :E' arrivato il cliente 158.
->317 :Ho servito il cliente 154.
->318 :E' arrivato il cliente 159.
->319 :Ho servito il cliente 155.E' arrivato il cliente 160.
->320 :E' arrivato il cliente 161.Cassa -> 156 -> 157 -> 158 -> 159 -> 160 -> 161 -> FINE
+>311 :Ho servito il cliente 140.
+>312 :Ho servito il cliente 141.E' arrivato il cliente 146.
+>313 :
+>314 :
+>315 :Ho servito il cliente 142.E' arrivato il cliente 147.
+>316 :
+>317 :Ho servito il cliente 143.E' arrivato il cliente 148.
+>318 :
+>319 :Ho servito il cliente 144.E' arrivato il cliente 149.
+>320 :Cassa -> 145 -> 146 -> 147 -> 148 -> 149 -> FINE
 
->321 :E' arrivato il cliente 162.
->322 :Ho servito il cliente 156.
->323 :E' arrivato il cliente 163.
->324 :Ho servito il cliente 157.
->325 :
->326 :E' arrivato il cliente 164.
->327 :Ho servito il cliente 158.
->328 :
->329 :E' arrivato il cliente 165.
->330 :Ho servito il cliente 159.E' arrivato il cliente 166.Cassa -> 160 -> 161 -> 162 -> 163 -> 164 -> 165 -> 166 -> FINE
+>321 :Ho servito il cliente 145.E' arrivato il cliente 150.
+>322 :
+>323 :Ho servito il cliente 146.E' arrivato il cliente 151.
+>324 :
+>325 :Ho servito il cliente 147.
+>326 :E' arrivato il cliente 152.
+>327 :
+>328 :Ho servito il cliente 148.
+>329 :Ho servito il cliente 149.E' arrivato il cliente 153.
+>330 :Ho servito il cliente 150.E' arrivato il cliente 154.Cassa -> 151 -> 152 -> 153 -> 154 -> FINE
 
->331 :Ho servito il cliente 160.
->332 :E' arrivato il cliente 167.
->333 :E' arrivato il cliente 168.
->334 :Ho servito il cliente 161.
+>331 :
+>332 :Ho servito il cliente 151.
+>333 :Ho servito il cliente 152.E' arrivato il cliente 155.
+>334 :E' arrivato il cliente 156.
 >335 :
->336 :E' arrivato il cliente 169.
->337 :Ho servito il cliente 162.
->338 :E' arrivato il cliente 170.
->339 :Ho servito il cliente 163.
->340 :Ho servito il cliente 164.E' arrivato il cliente 171.Cassa -> 165 -> 166 -> 167 -> 168 -> 169 -> 170 -> 171 -> FINE
+>336 :Ho servito il cliente 153.
+>337 :E' arrivato il cliente 157.
+>338 :E' arrivato il cliente 158.
+>339 :Ho servito il cliente 154.E' arrivato il cliente 159.
+>340 :Cassa -> 155 -> 156 -> 157 -> 158 -> 159 -> FINE
 
->341 :Ho servito il cliente 165.
->342 :Ho servito il cliente 166.
->343 :E' arrivato il cliente 172.
->344 :
->345 :Ho servito il cliente 167.E' arrivato il cliente 173.
->346 :
->347 :E' arrivato il cliente 174.
->348 :Ho servito il cliente 168.
->349 :E' arrivato il cliente 175.
->350 :Ho servito il cliente 169.Cassa -> 170 -> 171 -> 172 -> 173 -> 174 -> 175 -> FINE
+>341 :Ho servito il cliente 155.
+>342 :Ho servito il cliente 156.E' arrivato il cliente 160.
+>343 :
+>344 :Ho servito il cliente 157.E' arrivato il cliente 161.
+>345 :Ho servito il cliente 158.E' arrivato il cliente 162.
+>346 :Ho servito il cliente 159.
+>347 :Ho servito il cliente 160.
+>348 :Ho servito il cliente 161.E' arrivato il cliente 163.
+>349 :
+>350 :E' arrivato il cliente 164.Cassa -> 162 -> 163 -> 164 -> FINE
 
->351 :E' arrivato il cliente 176.
+>351 :Ho servito il cliente 162.
 >352 :
->353 :Ho servito il cliente 170.
->354 :Ho servito il cliente 171.E' arrivato il cliente 177.
+>353 :E' arrivato il cliente 165.
+>354 :Ho servito il cliente 163.
 >355 :
->356 :E' arrivato il cliente 178.
->357 :Ho servito il cliente 172.
->358 :E' arrivato il cliente 179.
->359 :Ho servito il cliente 173.
->360 :Ho servito il cliente 174.E' arrivato il cliente 180.Cassa -> 175 -> 176 -> 177 -> 178 -> 179 -> 180 -> FINE
+>356 :Ho servito il cliente 164.E' arrivato il cliente 166.
+>357 :Ho servito il cliente 165.
+>358 :E' arrivato il cliente 167.
+>359 :Ho servito il cliente 166.
+>360 :E' arrivato il cliente 168.Cassa -> 167 -> 168 -> FINE
 
->361 :E' arrivato il cliente 181.
->362 :Ho servito il cliente 175.
->363 :E' arrivato il cliente 182.
->364 :Ho servito il cliente 176.
->365 :E' arrivato il cliente 183.
->366 :E' arrivato il cliente 184.
->367 :Ho servito il cliente 177.
->368 :E' arrivato il cliente 185.
->369 :Ho servito il cliente 178.E' arrivato il cliente 186.
->370 :Cassa -> 179 -> 180 -> 181 -> 182 -> 183 -> 184 -> 185 -> 186 -> FINE
+>361 :Ho servito il cliente 167.
+>362 :Ho servito il cliente 168.E' arrivato il cliente 169.
+>363 :Ho servito il cliente 169.
+>364 :
+>365 :E' arrivato il cliente 170.
+>366 :Ho servito il cliente 170.
+>367 :E' arrivato il cliente 171.
+>368 :
+>369 :
+>370 :Ho servito il cliente 171.E' arrivato il cliente 172.Cassa -> 172 -> FINE
 
->371 :Ho servito il cliente 179.
->372 :Ho servito il cliente 180.E' arrivato il cliente 187.
+>371 :
+>372 :Ho servito il cliente 172.E' arrivato il cliente 173.
 >373 :
 >374 :
->375 :Ho servito il cliente 181.E' arrivato il cliente 188.
->376 :
->377 :Ho servito il cliente 182.
->378 :E' arrivato il cliente 189.
->379 :
->380 :Ho servito il cliente 183.Cassa -> 184 -> 185 -> 186 -> 187 -> 188 -> 189 -> FINE
+>375 :Ho servito il cliente 173.E' arrivato il cliente 174.
+>376 :E' arrivato il cliente 175.
+>377 :Ho servito il cliente 174.E' arrivato il cliente 176.
+>378 :
+>379 :E' arrivato il cliente 177.
+>380 :Ho servito il cliente 175.Cassa -> 176 -> 177 -> FINE
 
->381 :Ho servito il cliente 184.E' arrivato il cliente 190.
->382 :E' arrivato il cliente 191.
->383 :Ho servito il cliente 185.
->384 :Ho servito il cliente 186.
->385 :Ho servito il cliente 187.E' arrivato il cliente 192.
->386 :E' arrivato il cliente 193.
->387 :Ho servito il cliente 188.E' arrivato il cliente 194.
+>381 :Ho servito il cliente 176.
+>382 :Ho servito il cliente 177.E' arrivato il cliente 178.
+>383 :Ho servito il cliente 178.E' arrivato il cliente 179.
+>384 :Ho servito il cliente 179.
+>385 :
+>386 :E' arrivato il cliente 180.
+>387 :E' arrivato il cliente 181.
 >388 :
->389 :Ho servito il cliente 189.
->390 :Ho servito il cliente 190.E' arrivato il cliente 195.Cassa -> 191 -> 192 -> 193 -> 194 -> 195 -> FINE
+>389 :Ho servito il cliente 180.E' arrivato il cliente 182.
+>390 :Cassa -> 181 -> 182 -> FINE
 
->391 :E' arrivato il cliente 196.
->392 :Ho servito il cliente 191.
->393 :E' arrivato il cliente 197.
->394 :
->395 :Ho servito il cliente 192.E' arrivato il cliente 198.
->396 :Ho servito il cliente 193.
->397 :E' arrivato il cliente 199.
->398 :E' arrivato il cliente 200.
->399 :Ho servito il cliente 194.
->400 :E' arrivato il cliente 201.Cassa -> 195 -> 196 -> 197 -> 198 -> 199 -> 200 -> 201 -> FINE
+>391 :Ho servito il cliente 181.
+>392 :E' arrivato il cliente 183.
+>393 :E' arrivato il cliente 184.
+>394 :Ho servito il cliente 182.E' arrivato il cliente 185.
+>395 :
+>396 :
+>397 :Ho servito il cliente 183.E' arrivato il cliente 186.
+>398 :E' arrivato il cliente 187.
+>399 :Ho servito il cliente 184.
+>400 :Ho servito il cliente 185.E' arrivato il cliente 188.Cassa -> 186 -> 187 -> 188 -> FINE
 
 >401 :
->402 :Ho servito il cliente 195.
->403 :E' arrivato il cliente 202.
->404 :
->405 :Ho servito il cliente 196.
->406 :E' arrivato il cliente 203.
->407 :Ho servito il cliente 197.E' arrivato il cliente 204.
->408 :
->409 :E' arrivato il cliente 205.
->410 :Ho servito il cliente 198.Cassa -> 199 -> 200 -> 201 -> 202 -> 203 -> 204 -> 205 -> FINE
+>402 :Ho servito il cliente 186.E' arrivato il cliente 189.
+>403 :
+>404 :Ho servito il cliente 187.E' arrivato il cliente 190.
+>405 :E' arrivato il cliente 191.
+>406 :E' arrivato il cliente 192.
+>407 :Ho servito il cliente 188.
+>408 :Ho servito il cliente 189.
+>409 :Ho servito il cliente 190.E' arrivato il cliente 193.
+>410 :Cassa -> 191 -> 192 -> 193 -> FINE
 
->411 :E' arrivato il cliente 206.
->412 :Ho servito il cliente 199.E' arrivato il cliente 207.
->413 :E' arrivato il cliente 208.
->414 :Ho servito il cliente 200.
->415 :E' arrivato il cliente 209.
->416 :
->417 :Ho servito il cliente 201.E' arrivato il cliente 210.
->418 :Ho servito il cliente 202.E' arrivato il cliente 211.
->419 :Ho servito il cliente 203.
->420 :Cassa -> 204 -> 205 -> 206 -> 207 -> 208 -> 209 -> 210 -> 211 -> FINE
+>411 :Ho servito il cliente 191.
+>412 :E' arrivato il cliente 194.
+>413 :Ho servito il cliente 192.
+>414 :
+>415 :E' arrivato il cliente 195.
+>416 :Ho servito il cliente 193.E' arrivato il cliente 196.
+>417 :
+>418 :E' arrivato il cliente 197.
+>419 :Ho servito il cliente 194.E' arrivato il cliente 198.
+>420 :Cassa -> 195 -> 196 -> 197 -> 198 -> FINE
 
->421 :Ho servito il cliente 204.E' arrivato il cliente 212.
->422 :
->423 :E' arrivato il cliente 213.
->424 :Ho servito il cliente 205.E' arrivato il cliente 214.
->425 :E' arrivato il cliente 215.
->426 :
->427 :Ho servito il cliente 206.E' arrivato il cliente 216.
->428 :Ho servito il cliente 207.E' arrivato il cliente 217.
->429 :E' arrivato il cliente 218.
->430 :Ho servito il cliente 208.Cassa -> 209 -> 210 -> 211 -> 212 -> 213 -> 214 -> 215 -> 216 -> 217 -> 218 -> FINE
+>421 :E' arrivato il cliente 199.
+>422 :Ho servito il cliente 195.E' arrivato il cliente 200.
+>423 :Ho servito il cliente 196.
+>424 :E' arrivato il cliente 201.
+>425 :Ho servito il cliente 197.
+>426 :E' arrivato il cliente 202.
+>427 :Ho servito il cliente 198.E' arrivato il cliente 203.
+>428 :Ho servito il cliente 199.E' arrivato il cliente 204.
+>429 :E' arrivato il cliente 205.
+>430 :E' arrivato il cliente 206.Cassa -> 200 -> 201 -> 202 -> 203 -> 204 -> 205 -> 206 -> FINE
 
->431 :Ho servito il cliente 209.E' arrivato il cliente 219.
+>431 :Ho servito il cliente 200.
 >432 :
->433 :E' arrivato il cliente 220.
->434 :Ho servito il cliente 210.E' arrivato il cliente 221.
->435 :E' arrivato il cliente 222.
->436 :Ho servito il cliente 211.
->437 :
->438 :E' arrivato il cliente 223.
->439 :Ho servito il cliente 212.E' arrivato il cliente 224.
->440 :Cassa -> 213 -> 214 -> 215 -> 216 -> 217 -> 218 -> 219 -> 220 -> 221 -> 222 -> 223 -> 224 -> FINE
+>433 :Ho servito il cliente 201.E' arrivato il cliente 207.
+>434 :Ho servito il cliente 202.E' arrivato il cliente 208.
+>435 :Ho servito il cliente 203.
+>436 :Ho servito il cliente 204.
+>437 :E' arrivato il cliente 209.
+>438 :
+>439 :Ho servito il cliente 205.
+>440 :E' arrivato il cliente 210.Cassa -> 206 -> 207 -> 208 -> 209 -> 210 -> FINE
 
->441 :Ho servito il cliente 213.E' arrivato il cliente 225.
->442 :
->443 :E' arrivato il cliente 226.
->444 :Ho servito il cliente 214.E' arrivato il cliente 227.
->445 :
->446 :Ho servito il cliente 215.
->447 :E' arrivato il cliente 228.
->448 :Ho servito il cliente 216.
->449 :
->450 :Ho servito il cliente 217.E' arrivato il cliente 229.Cassa -> 218 -> 219 -> 220 -> 221 -> 222 -> 223 -> 224 -> 225 -> 226 -> 227 -> 228 -> 229 -> FINE
+>441 :E' arrivato il cliente 211.
+>442 :Ho servito il cliente 206.
+>443 :Ho servito il cliente 207.
+>444 :E' arrivato il cliente 212.
+>445 :Ho servito il cliente 208.
+>446 :Ho servito il cliente 209.
+>447 :E' arrivato il cliente 213.
+>448 :Ho servito il cliente 210.E' arrivato il cliente 214.
+>449 :Ho servito il cliente 211.
+>450 :Cassa -> 212 -> 213 -> 214 -> FINE
 
->451 :Ho servito il cliente 218.E' arrivato il cliente 230.
->452 :Ho servito il cliente 219.
->453 :Ho servito il cliente 220.E' arrivato il cliente 231.
->454 :
->455 :Ho servito il cliente 221.E' arrivato il cliente 232.
->456 :E' arrivato il cliente 233.
->457 :Ho servito il cliente 222.
->458 :Ho servito il cliente 223.
->459 :E' arrivato il cliente 234.
->460 :Cassa -> 224 -> 225 -> 226 -> 227 -> 228 -> 229 -> 230 -> 231 -> 232 -> 233 -> 234 -> FINE
+>451 :Ho servito il cliente 212.E' arrivato il cliente 215.
+>452 :Ho servito il cliente 213.
+>453 :E' arrivato il cliente 216.
+>454 :Ho servito il cliente 214.
+>455 :
+>456 :Ho servito il cliente 215.E' arrivato il cliente 217.
+>457 :
+>458 :Ho servito il cliente 216.
+>459 :E' arrivato il cliente 218.
+>460 :Ho servito il cliente 217.Cassa -> 218 -> FINE
 
->461 :Ho servito il cliente 224.
->462 :E' arrivato il cliente 235.
->463 :
->464 :Ho servito il cliente 225.
->465 :E' arrivato il cliente 236.
->466 :E' arrivato il cliente 237.
->467 :Ho servito il cliente 226.
->468 :Ho servito il cliente 227.
->469 :E' arrivato il cliente 238.
->470 :Cassa -> 228 -> 229 -> 230 -> 231 -> 232 -> 233 -> 234 -> 235 -> 236 -> 237 -> 238 -> FINE
+>461 :E' arrivato il cliente 219.
+>462 :
+>463 :Ho servito il cliente 218.
+>464 :E' arrivato il cliente 220.
+>465 :
+>466 :Ho servito il cliente 219.
+>467 :E' arrivato il cliente 221.
+>468 :
+>469 :Ho servito il cliente 220.E' arrivato il cliente 222.
+>470 :E' arrivato il cliente 223.Cassa -> 221 -> 222 -> 223 -> FINE
 
->471 :Ho servito il cliente 228.E' arrivato il cliente 239.
->472 :
+>471 :E' arrivato il cliente 224.
+>472 :Ho servito il cliente 221.E' arrivato il cliente 225.
 >473 :
->474 :Ho servito il cliente 229.E' arrivato il cliente 240.
->475 :Ho servito il cliente 230.
->476 :
->477 :Ho servito il cliente 231.E' arrivato il cliente 241.
+>474 :Ho servito il cliente 222.
+>475 :E' arrivato il cliente 226.
+>476 :E' arrivato il cliente 227.
+>477 :Ho servito il cliente 223.
 >478 :
->479 :Ho servito il cliente 232.
->480 :E' arrivato il cliente 242.Cassa -> 233 -> 234 -> 235 -> 236 -> 237 -> 238 -> 239 -> 240 -> 241 -> 242 -> FINE
+>479 :E' arrivato il cliente 228.
+>480 :Ho servito il cliente 224.E' arrivato il cliente 229.Cassa -> 225 -> 226 -> 227 -> 228 -> 229 -> FINE
 
->481 :E' arrivato il cliente 243.
->482 :Ho servito il cliente 233.E' arrivato il cliente 244.
->483 :
->484 :
->485 :Ho servito il cliente 234.E' arrivato il cliente 245.
->486 :
+>481 :Ho servito il cliente 225.
+>482 :Ho servito il cliente 226.
+>483 :E' arrivato il cliente 230.
+>484 :E' arrivato il cliente 231.
+>485 :Ho servito il cliente 227.
+>486 :Ho servito il cliente 228.E' arrivato il cliente 232.
 >487 :
->488 :Ho servito il cliente 235.E' arrivato il cliente 246.
->489 :E' arrivato il cliente 247.
->490 :Ho servito il cliente 236.E' arrivato il cliente 248.Cassa -> 237 -> 238 -> 239 -> 240 -> 241 -> 242 -> 243 -> 244 -> 245 -> 246 -> 247 -> 248 -> FINE
+>488 :E' arrivato il cliente 233.
+>489 :Ho servito il cliente 229.
+>490 :Ho servito il cliente 230.E' arrivato il cliente 234.Cassa -> 231 -> 232 -> 233 -> 234 -> FINE
 
->491 :
->492 :Ho servito il cliente 237.E' arrivato il cliente 249.
->493 :Ho servito il cliente 238.E' arrivato il cliente 250.
->494 :Ho servito il cliente 239.
->495 :Ho servito il cliente 240.E' arrivato il cliente 251.
->496 :E' arrivato il cliente 252.
->497 :Ho servito il cliente 241.
->498 :E' arrivato il cliente 253.
->499 :Ho servito il cliente 242.E' arrivato il cliente 254.
->500 :E' arrivato il cliente 255.Cassa -> 243 -> 244 -> 245 -> 246 -> 247 -> 248 -> 249 -> 250 -> 251 -> 252 -> 253 -> 254 -> 255 -> FINE
+>491 :Ho servito il cliente 231.E' arrivato il cliente 235.
+>492 :Ho servito il cliente 232.E' arrivato il cliente 236.
+>493 :
+>494 :Ho servito il cliente 233.E' arrivato il cliente 237.
+>495 :Ho servito il cliente 234.
+>496 :Ho servito il cliente 235.
+>497 :Ho servito il cliente 236.E' arrivato il cliente 238.
+>498 :
+>499 :E' arrivato il cliente 239.
+>500 :Ho servito il cliente 237.Cassa -> 238 -> 239 -> FINE
 
->501 :E' arrivato il cliente 256.
->502 :Ho servito il cliente 243.
+>501 :
+>502 :Ho servito il cliente 238.E' arrivato il cliente 240.
 >503 :
->504 :E' arrivato il cliente 257.
->505 :Ho servito il cliente 244.
->506 :Ho servito il cliente 245.
->507 :Ho servito il cliente 246.E' arrivato il cliente 258.
->508 :
->509 :E' arrivato il cliente 259.
->510 :Ho servito il cliente 247.Cassa -> 248 -> 249 -> 250 -> 251 -> 252 -> 253 -> 254 -> 255 -> 256 -> 257 -> 258 -> 259 -> FINE
+>504 :Ho servito il cliente 239.E' arrivato il cliente 241.
+>505 :
+>506 :
+>507 :Ho servito il cliente 240.E' arrivato il cliente 242.
+>508 :E' arrivato il cliente 243.
+>509 :Ho servito il cliente 241.
+>510 :Ho servito il cliente 242.E' arrivato il cliente 244.Cassa -> 243 -> 244 -> FINE
 
->511 :Ho servito il cliente 248.
->512 :E' arrivato il cliente 260.
->513 :
->514 :Ho servito il cliente 249.E' arrivato il cliente 261.
->515 :
->516 :
->517 :Ho servito il cliente 250.E' arrivato il cliente 262.
->518 :Ho servito il cliente 251.E' arrivato il cliente 263.
->519 :
->520 :E' arrivato il cliente 264.Cassa -> 252 -> 253 -> 254 -> 255 -> 256 -> 257 -> 258 -> 259 -> 260 -> 261 -> 262 -> 263 -> 264 -> FINE
+>511 :
+>512 :Ho servito il cliente 243.
+>513 :E' arrivato il cliente 245.
+>514 :Ho servito il cliente 244.
+>515 :Ho servito il cliente 245.E' arrivato il cliente 246.
+>516 :Ho servito il cliente 246.
+>517 :
+>518 :E' arrivato il cliente 247.
+>519 :Ho servito il cliente 247.
+>520 :E' arrivato il cliente 248.Cassa -> 248 -> FINE
 
->521 :Ho servito il cliente 252.
->522 :Ho servito il cliente 253.
->523 :Ho servito il cliente 254.E' arrivato il cliente 265.
->524 :Ho servito il cliente 255.
->525 :E' arrivato il cliente 266.
->526 :Ho servito il cliente 256.E' arrivato il cliente 267.
+>521 :Ho servito il cliente 248.
+>522 :
+>523 :E' arrivato il cliente 249.
+>524 :
+>525 :E' arrivato il cliente 250.
+>526 :Ho servito il cliente 249.E' arrivato il cliente 251.
 >527 :
->528 :Ho servito il cliente 257.E' arrivato il cliente 268.
->529 :Ho servito il cliente 258.
->530 :Cassa -> 259 -> 260 -> 261 -> 262 -> 263 -> 264 -> 265 -> 266 -> 267 -> 268 -> FINE
+>528 :E' arrivato il cliente 252.
+>529 :Ho servito il cliente 250.
+>530 :E' arrivato il cliente 253.Cassa -> 251 -> 252 -> 253 -> FINE
 
->531 :E' arrivato il cliente 269.
->532 :Ho servito il cliente 259.E' arrivato il cliente 270.
->533 :Ho servito il cliente 260.E' arrivato il cliente 271.
->534 :Ho servito il cliente 261.
+>531 :Ho servito il cliente 251.
+>532 :
+>533 :E' arrivato il cliente 254.
+>534 :Ho servito il cliente 252.
 >535 :
->536 :Ho servito il cliente 262.E' arrivato il cliente 272.
->537 :E' arrivato il cliente 273.
->538 :
->539 :Ho servito il cliente 263.
->540 :E' arrivato il cliente 274.Cassa -> 264 -> 265 -> 266 -> 267 -> 268 -> 269 -> 270 -> 271 -> 272 -> 273 -> 274 -> FINE
+>536 :Ho servito il cliente 253.E' arrivato il cliente 255.
+>537 :E' arrivato il cliente 256.
+>538 :Ho servito il cliente 254.E' arrivato il cliente 257.
+>539 :E' arrivato il cliente 258.
+>540 :Ho servito il cliente 255.Cassa -> 256 -> 257 -> 258 -> FINE
 
 >541 :
->542 :Ho servito il cliente 264.E' arrivato il cliente 275.
->543 :E' arrivato il cliente 276.
->544 :E' arrivato il cliente 277.
->545 :Ho servito il cliente 265.E' arrivato il cliente 278.
->546 :
->547 :Ho servito il cliente 266.E' arrivato il cliente 279.
->548 :E' arrivato il cliente 280.
+>542 :E' arrivato il cliente 259.
+>543 :Ho servito il cliente 256.E' arrivato il cliente 260.
+>544 :Ho servito il cliente 257.
+>545 :
+>546 :Ho servito il cliente 258.E' arrivato il cliente 261.
+>547 :E' arrivato il cliente 262.
+>548 :Ho servito il cliente 259.
 >549 :
->550 :Ho servito il cliente 267.Cassa -> 268 -> 269 -> 270 -> 271 -> 272 -> 273 -> 274 -> 275 -> 276 -> 277 -> 278 -> 279 -> 280 -> FINE
+>550 :E' arrivato il cliente 263.Cassa -> 260 -> 261 -> 262 -> 263 -> FINE
 
->551 :E' arrivato il cliente 281.
->552 :E' arrivato il cliente 282.
->553 :Ho servito il cliente 268.
+>551 :Ho servito il cliente 260.
+>552 :
+>553 :Ho servito il cliente 261.E' arrivato il cliente 264.
 >554 :
->555 :Ho servito il cliente 269.E' arrivato il cliente 283.
->556 :E' arrivato il cliente 284.
->557 :Ho servito il cliente 270.
->558 :E' arrivato il cliente 285.
->559 :
->560 :Ho servito il cliente 271.E' arrivato il cliente 286.Cassa -> 272 -> 273 -> 274 -> 275 -> 276 -> 277 -> 278 -> 279 -> 280 -> 281 -> 282 -> 283 -> 284 -> 285 -> 286 -> FINE
+>555 :Ho servito il cliente 262.
+>556 :E' arrivato il cliente 265.
+>557 :
+>558 :Ho servito il cliente 263.
+>559 :E' arrivato il cliente 266.
+>560 :Ho servito il cliente 264.E' arrivato il cliente 267.Cassa -> 265 -> 266 -> 267 -> FINE
 
->561 :
->562 :
->563 :Ho servito il cliente 272.E' arrivato il cliente 287.
->564 :
->565 :Ho servito il cliente 273.E' arrivato il cliente 288.
+>561 :E' arrivato il cliente 268.
+>562 :Ho servito il cliente 265.
+>563 :Ho servito il cliente 266.
+>564 :Ho servito il cliente 267.E' arrivato il cliente 269.
+>565 :E' arrivato il cliente 270.
 >566 :
->567 :
->568 :Ho servito il cliente 274.E' arrivato il cliente 289.
+>567 :Ho servito il cliente 268.
+>568 :Ho servito il cliente 269.E' arrivato il cliente 271.
 >569 :
->570 :Cassa -> 275 -> 276 -> 277 -> 278 -> 279 -> 280 -> 281 -> 282 -> 283 -> 284 -> 285 -> 286 -> 287 -> 288 -> 289 -> FINE
+>570 :E' arrivato il cliente 272.Cassa -> 270 -> 271 -> 272 -> FINE
 
->571 :Ho servito il cliente 275.E' arrivato il cliente 290.
+>571 :Ho servito il cliente 270.
 >572 :
->573 :E' arrivato il cliente 291.
->574 :Ho servito il cliente 276.
->575 :E' arrivato il cliente 292.
->576 :E' arrivato il cliente 293.
->577 :Ho servito il cliente 277.E' arrivato il cliente 294.
->578 :Ho servito il cliente 278.E' arrivato il cliente 295.
->579 :Ho servito il cliente 279.
->580 :Cassa -> 280 -> 281 -> 282 -> 283 -> 284 -> 285 -> 286 -> 287 -> 288 -> 289 -> 290 -> 291 -> 292 -> 293 -> 294 -> 295 -> FINE
+>573 :Ho servito il cliente 271.E' arrivato il cliente 273.
+>574 :E' arrivato il cliente 274.
+>575 :E' arrivato il cliente 275.
+>576 :Ho servito il cliente 272.
+>577 :
+>578 :Ho servito il cliente 273.E' arrivato il cliente 276.
+>579 :Ho servito il cliente 274.E' arrivato il cliente 277.
+>580 :Ho servito il cliente 275.Cassa -> 276 -> 277 -> FINE
 
->581 :E' arrivato il cliente 296.
->582 :Ho servito il cliente 280.
->583 :
->584 :E' arrivato il cliente 297.
->585 :Ho servito il cliente 281.E' arrivato il cliente 298.
->586 :Ho servito il cliente 282.
->587 :E' arrivato il cliente 299.
->588 :Ho servito il cliente 283.
->589 :E' arrivato il cliente 300.
->590 :Cassa -> 284 -> 285 -> 286 -> 287 -> 288 -> 289 -> 290 -> 291 -> 292 -> 293 -> 294 -> 295 -> 296 -> 297 -> 298 -> 299 -> 300 -> FINE
+>581 :E' arrivato il cliente 278.
+>582 :
+>583 :Ho servito il cliente 276.
+>584 :Ho servito il cliente 277.E' arrivato il cliente 279.
+>585 :
+>586 :E' arrivato il cliente 280.
+>587 :Ho servito il cliente 278.E' arrivato il cliente 281.
+>588 :E' arrivato il cliente 282.
+>589 :Ho servito il cliente 279.
+>590 :E' arrivato il cliente 283.Cassa -> 280 -> 281 -> 282 -> 283 -> FINE
 
->591 :Ho servito il cliente 284.E' arrivato il cliente 301.
->592 :Ho servito il cliente 285.
->593 :E' arrivato il cliente 302.
->594 :Ho servito il cliente 286.
->595 :Ho servito il cliente 287.E' arrivato il cliente 303.
->596 :Ho servito il cliente 288.
->597 :
->598 :Ho servito il cliente 289.E' arrivato il cliente 304.
->599 :
->600 :Ho servito il cliente 290.E' arrivato il cliente 305.Cassa -> 291 -> 292 -> 293 -> 294 -> 295 -> 296 -> 297 -> 298 -> 299 -> 300 -> 301 -> 302 -> 303 -> 304 -> 305 -> FINE
+>591 :E' arrivato il cliente 284.
+>592 :Ho servito il cliente 280.
+>593 :Ho servito il cliente 281.E' arrivato il cliente 285.
+>594 :Ho servito il cliente 282.E' arrivato il cliente 286.
+>595 :E' arrivato il cliente 287.
+>596 :Ho servito il cliente 283.E' arrivato il cliente 288.
+>597 :Ho servito il cliente 284.E' arrivato il cliente 289.
+>598 :E' arrivato il cliente 290.
+>599 :Ho servito il cliente 285.
+>600 :Ho servito il cliente 286.Cassa -> 287 -> 288 -> 289 -> 290 -> FINE
 
->601 :Ho servito il cliente 291.
->602 :E' arrivato il cliente 306.
->603 :E' arrivato il cliente 307.
->604 :Ho servito il cliente 292.E' arrivato il cliente 308.
->605 :Ho servito il cliente 293.
->606 :Ho servito il cliente 294.
->607 :E' arrivato il cliente 309.
->608 :Ho servito il cliente 295.
->609 :E' arrivato il cliente 310.
->610 :E' arrivato il cliente 311.Cassa -> 296 -> 297 -> 298 -> 299 -> 300 -> 301 -> 302 -> 303 -> 304 -> 305 -> 306 -> 307 -> 308 -> 309 -> 310 -> 311 -> FINE
+>601 :E' arrivato il cliente 291.
+>602 :Ho servito il cliente 287.
+>603 :E' arrivato il cliente 292.
+>604 :
+>605 :Ho servito il cliente 288.E' arrivato il cliente 293.
+>606 :Ho servito il cliente 289.
+>607 :
+>608 :Ho servito il cliente 290.E' arrivato il cliente 294.
+>609 :Ho servito il cliente 291.
+>610 :Cassa -> 292 -> 293 -> 294 -> FINE
 
->611 :Ho servito il cliente 296.
->612 :Ho servito il cliente 297.E' arrivato il cliente 312.
->613 :E' arrivato il cliente 313.
->614 :
->615 :Ho servito il cliente 298.E' arrivato il cliente 314.
->616 :
->617 :Ho servito il cliente 299.
->618 :Ho servito il cliente 300.E' arrivato il cliente 315.
->619 :E' arrivato il cliente 316.
->620 :Ho servito il cliente 301.Cassa -> 302 -> 303 -> 304 -> 305 -> 306 -> 307 -> 308 -> 309 -> 310 -> 311 -> 312 -> 313 -> 314 -> 315 -> 316 -> FINE
+>611 :E' arrivato il cliente 295.
+>612 :Ho servito il cliente 292.
+>613 :E' arrivato il cliente 296.
+>614 :Ho servito il cliente 293.
+>615 :E' arrivato il cliente 297.
+>616 :E' arrivato il cliente 298.
+>617 :Ho servito il cliente 294.E' arrivato il cliente 299.
+>618 :
+>619 :Ho servito il cliente 295.
+>620 :E' arrivato il cliente 300.Cassa -> 296 -> 297 -> 298 -> 299 -> 300 -> FINE
 
->621 :E' arrivato il cliente 317.
->622 :Ho servito il cliente 302.
->623 :Ho servito il cliente 303.
->624 :E' arrivato il cliente 318.
->625 :E' arrivato il cliente 319.
->626 :Ho servito il cliente 304.E' arrivato il cliente 320.
->627 :
+>621 :E' arrivato il cliente 301.
+>622 :Ho servito il cliente 296.
+>623 :
+>624 :Ho servito il cliente 297.E' arrivato il cliente 302.
+>625 :Ho servito il cliente 298.
+>626 :
+>627 :Ho servito il cliente 299.E' arrivato il cliente 303.
 >628 :
->629 :Ho servito il cliente 305.E' arrivato il cliente 321.
->630 :Ho servito il cliente 306.E' arrivato il cliente 322.Cassa -> 307 -> 308 -> 309 -> 310 -> 311 -> 312 -> 313 -> 314 -> 315 -> 316 -> 317 -> 318 -> 319 -> 320 -> 321 -> 322 -> FINE
+>629 :Ho servito il cliente 300.E' arrivato il cliente 304.
+>630 :Cassa -> 301 -> 302 -> 303 -> 304 -> FINE
 
->631 :
->632 :
->633 :Ho servito il cliente 307.E' arrivato il cliente 323.
->634 :Ho servito il cliente 308.
->635 :Ho servito il cliente 309.E' arrivato il cliente 324.
->636 :Ho servito il cliente 310.
->637 :Ho servito il cliente 311.
->638 :E' arrivato il cliente 325.
->639 :E' arrivato il cliente 326.
->640 :Ho servito il cliente 312.E' arrivato il cliente 327.Cassa -> 313 -> 314 -> 315 -> 316 -> 317 -> 318 -> 319 -> 320 -> 321 -> 322 -> 323 -> 324 -> 325 -> 326 -> 327 -> FINE
+>631 :E' arrivato il cliente 305.
+>632 :Ho servito il cliente 301.
+>633 :Ho servito il cliente 302.
+>634 :E' arrivato il cliente 306.
+>635 :
+>636 :Ho servito il cliente 303.
+>637 :Ho servito il cliente 304.E' arrivato il cliente 307.
+>638 :E' arrivato il cliente 308.
+>639 :Ho servito il cliente 305.E' arrivato il cliente 309.
+>640 :E' arrivato il cliente 310.Cassa -> 306 -> 307 -> 308 -> 309 -> 310 -> FINE
 
->641 :
->642 :Ho servito il cliente 313.E' arrivato il cliente 328.
->643 :Ho servito il cliente 314.E' arrivato il cliente 329.
->644 :Ho servito il cliente 315.
->645 :
->646 :Ho servito il cliente 316.E' arrivato il cliente 330.
->647 :Ho servito il cliente 317.
+>641 :Ho servito il cliente 306.
+>642 :
+>643 :Ho servito il cliente 307.E' arrivato il cliente 311.
+>644 :
+>645 :Ho servito il cliente 308.
+>646 :Ho servito il cliente 309.E' arrivato il cliente 312.
+>647 :
 >648 :
->649 :Ho servito il cliente 318.E' arrivato il cliente 331.
->650 :Cassa -> 319 -> 320 -> 321 -> 322 -> 323 -> 324 -> 325 -> 326 -> 327 -> 328 -> 329 -> 330 -> 331 -> FINE
+>649 :Ho servito il cliente 310.E' arrivato il cliente 313.
+>650 :Cassa -> 311 -> 312 -> 313 -> FINE
 
 >651 :
->652 :Ho servito il cliente 319.E' arrivato il cliente 332.
->653 :Ho servito il cliente 320.E' arrivato il cliente 333.
->654 :
->655 :
->656 :Ho servito il cliente 321.E' arrivato il cliente 334.
->657 :Ho servito il cliente 322.
->658 :
->659 :Ho servito il cliente 323.E' arrivato il cliente 335.
->660 :Ho servito il cliente 324.Cassa -> 325 -> 326 -> 327 -> 328 -> 329 -> 330 -> 331 -> 332 -> 333 -> 334 -> 335 -> FINE
+>652 :Ho servito il cliente 311.E' arrivato il cliente 314.
+>653 :
+>654 :Ho servito il cliente 312.
+>655 :Ho servito il cliente 313.E' arrivato il cliente 315.
+>656 :
+>657 :
+>658 :Ho servito il cliente 314.E' arrivato il cliente 316.
+>659 :
+>660 :Ho servito il cliente 315.E' arrivato il cliente 317.Cassa -> 316 -> 317 -> FINE
 
->661 :Ho servito il cliente 325.
->662 :E' arrivato il cliente 336.
->663 :
->664 :Ho servito il cliente 326.
->665 :E' arrivato il cliente 337.
->666 :Ho servito il cliente 327.
->667 :
->668 :Ho servito il cliente 328.E' arrivato il cliente 338.
->669 :Ho servito il cliente 329.
->670 :Ho servito il cliente 330.E' arrivato il cliente 339.Cassa -> 331 -> 332 -> 333 -> 334 -> 335 -> 336 -> 337 -> 338 -> 339 -> FINE
+>661 :Ho servito il cliente 316.
+>662 :E' arrivato il cliente 318.
+>663 :Ho servito il cliente 317.
+>664 :Ho servito il cliente 318.
+>665 :E' arrivato il cliente 319.
+>666 :Ho servito il cliente 319.
+>667 :E' arrivato il cliente 320.
+>668 :E' arrivato il cliente 321.
+>669 :Ho servito il cliente 320.
+>670 :Ho servito il cliente 321.Cassa -> FINE
 
->671 :
+>671 :E' arrivato il cliente 322.
 >672 :
->673 :Ho servito il cliente 331.E' arrivato il cliente 340.
->674 :Ho servito il cliente 332.
->675 :E' arrivato il cliente 341.
->676 :E' arrivato il cliente 342.
->677 :Ho servito il cliente 333.
+>673 :
+>674 :Ho servito il cliente 322.E' arrivato il cliente 323.
+>675 :Ho servito il cliente 323.
+>676 :E' arrivato il cliente 324.
+>677 :E' arrivato il cliente 325.
 >678 :
->679 :Ho servito il cliente 334.E' arrivato il cliente 343.
->680 :Ho servito il cliente 335.E' arrivato il cliente 344.Cassa -> 336 -> 337 -> 338 -> 339 -> 340 -> 341 -> 342 -> 343 -> 344 -> FINE
+>679 :Ho servito il cliente 324.
+>680 :E' arrivato il cliente 326.Cassa -> 325 -> 326 -> FINE
 
 >681 :
->682 :E' arrivato il cliente 345.
->683 :Ho servito il cliente 336.
->684 :Ho servito il cliente 337.E' arrivato il cliente 346.
->685 :E' arrivato il cliente 347.
->686 :
->687 :Ho servito il cliente 338.E' arrivato il cliente 348.
->688 :E' arrivato il cliente 349.
->689 :Ho servito il cliente 339.
->690 :Ho servito il cliente 340.Cassa -> 341 -> 342 -> 343 -> 344 -> 345 -> 346 -> 347 -> 348 -> 349 -> FINE
+>682 :Ho servito il cliente 325.
+>683 :Ho servito il cliente 326.E' arrivato il cliente 327.
+>684 :
+>685 :
+>686 :Ho servito il cliente 327.E' arrivato il cliente 328.
+>687 :E' arrivato il cliente 329.
+>688 :Ho servito il cliente 328.E' arrivato il cliente 330.
+>689 :E' arrivato il cliente 331.
+>690 :Ho servito il cliente 329.E' arrivato il cliente 332.Cassa -> 330 -> 331 -> 332 -> FINE
 
->691 :Ho servito il cliente 341.E' arrivato il cliente 350.
->692 :
->693 :Ho servito il cliente 342.
->694 :E' arrivato il cliente 351.
->695 :E' arrivato il cliente 352.
->696 :Ho servito il cliente 343.
->697 :Ho servito il cliente 344.
->698 :E' arrivato il cliente 353.
->699 :
->700 :Ho servito il cliente 345.Cassa -> 346 -> 347 -> 348 -> 349 -> 350 -> 351 -> 352 -> 353 -> FINE
+>691 :E' arrivato il cliente 333.
+>692 :E' arrivato il cliente 334.
+>693 :Ho servito il cliente 330.E' arrivato il cliente 335.
+>694 :Ho servito il cliente 331.E' arrivato il cliente 336.
+>695 :E' arrivato il cliente 337.
+>696 :
+>697 :Ho servito il cliente 332.E' arrivato il cliente 338.
+>698 :E' arrivato il cliente 339.
+>699 :E' arrivato il cliente 340.
+>700 :Ho servito il cliente 333.E' arrivato il cliente 341.Cassa -> 334 -> 335 -> 336 -> 337 -> 338 -> 339 -> 340 -> 341 -> FINE
 
->701 :Ho servito il cliente 346.E' arrivato il cliente 354.
+>701 :
 >702 :
->703 :Ho servito il cliente 347.E' arrivato il cliente 355.
->704 :Ho servito il cliente 348.
+>703 :Ho servito il cliente 334.E' arrivato il cliente 342.
+>704 :E' arrivato il cliente 343.
 >705 :
->706 :Ho servito il cliente 349.E' arrivato il cliente 356.
->707 :
->708 :Ho servito il cliente 350.
->709 :E' arrivato il cliente 357.
->710 :Cassa -> 351 -> 352 -> 353 -> 354 -> 355 -> 356 -> 357 -> FINE
+>706 :Ho servito il cliente 335.E' arrivato il cliente 344.
+>707 :Ho servito il cliente 336.E' arrivato il cliente 345.
+>708 :Ho servito il cliente 337.
+>709 :
+>710 :Ho servito il cliente 338.E' arrivato il cliente 346.Cassa -> 339 -> 340 -> 341 -> 342 -> 343 -> 344 -> 345 -> 346 -> FINE
 
->711 :Ho servito il cliente 351.E' arrivato il cliente 358.
->712 :E' arrivato il cliente 359.
->713 :
->714 :Ho servito il cliente 352.E' arrivato il cliente 360.
->715 :Ho servito il cliente 353.E' arrivato il cliente 361.
->716 :Ho servito il cliente 354.
->717 :
->718 :E' arrivato il cliente 362.
->719 :Ho servito il cliente 355.E' arrivato il cliente 363.
-La coda alla fine dei 720 minuti, e' lunga 8 cliente/i.
+>711 :E' arrivato il cliente 347.
+>712 :E' arrivato il cliente 348.
+>713 :Ho servito il cliente 339.
+>714 :
+>715 :Ho servito il cliente 340.E' arrivato il cliente 349.
+>716 :E' arrivato il cliente 350.
+>717 :Ho servito il cliente 341.
+>718 :Ho servito il cliente 342.
+>719 :E' arrivato il cliente 351.
+La coda alla fine dei 720 minuti, e' lunga 9 cliente/i.
