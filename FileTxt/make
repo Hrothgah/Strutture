@@ -1,0 +1,4 @@
+gcc -g -c -o main.o main.c
+gcc -g -c -o list_f.o list_f.c
+gcc -std=c99 main.o list_f.o -o cognomi
+./cognomi

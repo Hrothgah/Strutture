@@ -1,0 +1,48 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#define SIZE 10
+
+struct scatola {
+  int intero;
+  double virgola;
+  struct scatola * puntaScatola;
+  char * bomba;
+};
+
+typedef struct scatola Scatola;
+typedef Scatola *ScatolaPtr;
+
+int main(void){
+  int a, b, c, d, e;
+
+  char stringa[SIZE];
+
+  srand(time(NULL));
+  
+  for (size_t i = 0; i < SIZE; i++){
+    stringa[i] = rand()%25 + 97;
+    printf("%c ", stringa[i]);
+  }
+
+  puts("\n");
+ 
+
+  // Scatola pippo = malloc(sizeof(Scatola));
+
+  Scatola pippo;
+  
+  pippo.intero = 69;
+  pippo.virgola = 6.9;
+  pippo.puntaScatola = NULL;
+
+  ScatolaPtr baudo = malloc(sizeof(Scatola));
+
+  baudo->intero = 199;
+  baudo->virgola = 19.9;
+  baudo->puntaScatola = pippo;
+  
+
+
+  puts("\n");
+}

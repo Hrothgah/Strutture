@@ -1,0 +1,4 @@
+gcc -c -o main.o main.c
+gcc -c -o list.o list.c
+gcc -std=c99 main.o list.o -o merge
+./merge
